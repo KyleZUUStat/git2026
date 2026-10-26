@@ -1,4 +1,4 @@
-# git2026
+# Collaboration repo MSDS
 
 Collaboration in R course MSDS. 
 See Brightspace for instructions. 
